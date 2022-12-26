@@ -1,0 +1,12 @@
+.input-login {
+	border: none;
+	border-bottom: solid white;
+	background: none;
+	outline: none;
+	box-shadow: none;
+	text-decoration: none;
+}
+
+.background {
+	background-color: rgb(45, 45, 45) !important;
+}
